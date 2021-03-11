@@ -1,0 +1,17 @@
+{
+  "name": "jetbar-documentation",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxt/content-theme-docs": "^0.8.0",
+    "apexcharts": "^3.24.0",
+    "nuxt": "^2.14.7",
+    "vue-apexcharts": "^1.6.0"
+  }
+}
