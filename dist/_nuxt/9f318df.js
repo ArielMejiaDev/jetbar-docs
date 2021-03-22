@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[34],{244:function(t,e,n){"use strict";n.r(e);var l={name:"JetBarTableData"},r=n(3),component=Object(r.a)(l,(function(){var t=this.$createElement;return(this._self._c||t)("td",{staticClass:"px-6 py-4 whitespace-nowrap text-sm text-gray-500"},[this._t("default")],2)}),[],!1,null,null,null);e.default=component.exports}}]);

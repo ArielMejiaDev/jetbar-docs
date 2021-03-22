@@ -1,0 +1,17 @@
+<template>
+    <!-- Cards Statics -->
+    <div class="grid gap-6 mb-8 md:grid-cols-2">
+
+        <slot />
+
+    </div>
+
+</template>
+
+<script>
+
+export default {
+    name: "StatsCardsComponent",
+}
+</script>
+

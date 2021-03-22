@@ -14,7 +14,7 @@ The application layout is located in `resources/views/layouts`.
 It use different components:
 
 - Sidebar (`x-jet-bar-sidebar`).
-- Navigation Menu (`x-jet-navigation-menu`).
+- Navigation Menu (`x-jet-bar-navigation-menu`).
 - Navigation Menu / Responsive links (`x-jet-bar-responsive-links`).
 
 There you can add any link or customize it as you need.
@@ -24,6 +24,8 @@ There you can add any link or customize it as you need.
 Navigation menu component ships with a notifications dropdown element, feel free to use or discard it as your app needs.
 
 </alert>
+
+<img src="/jetbar-navigation-screenshot.png" width="1280" height="640" alt="Jetbar navigation menu" class="rounded-xl shadow" />
 
 
 ## InertiaJS layout

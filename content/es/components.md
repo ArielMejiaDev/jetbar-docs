@@ -5,7 +5,9 @@ position: 4
 category: 'Components'
 ---
 
-### Alert Component
+### Componente Alert
+
+<jet-bar-alert text="This is an alert"></jet-bar-alert>
 
 <code-group>
   <code-block label="For Livewire stack" active>
@@ -32,7 +34,9 @@ category: 'Components'
   </code-block>
 </code-group>
 
-### Stats Component
+### Componente Stat Card
+
+<stats></stats>
 
 <code-group>
   <code-block label="For Livewire stack" active>
@@ -57,7 +61,9 @@ category: 'Components'
   </code-block>
 </code-group>
 
-### Badge Component
+### Componente Badge
+
+<jet-bar-badge text="active" type="success"></jet-bar-badge>
 
 <code-group>
   <code-block label="For Livewire stack" active>
@@ -76,7 +82,13 @@ category: 'Components'
   </code-block>
 </code-group>
 
-### Icon Component
+### Componente Icon
+
+<div class="p-1 rounded shadow my-2 inline-block">
+
+<jet-bar-icon type="trash" fill></jet-bar-icon>
+
+</div>
 
 <code-group>
   <code-block label="For Livewire stack" active>
@@ -95,7 +107,9 @@ category: 'Components'
   </code-block>
 </code-group>
 
-### Table Component
+### Componente Table
+
+<simple-table></simple-table>
 
 <code-group>
   <code-block label="For Livewire stack" active>
@@ -142,7 +156,7 @@ category: 'Components'
   </code-block>
 </code-group>
 
-### Simple Pagination Component
+### Componente Simple Pagination
 
 Here an example with an eloquent collection of users (User model).
 

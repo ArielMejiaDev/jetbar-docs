@@ -13,11 +13,9 @@ features:
   - Table Pagination Component
 ---
 
-<img src="/banner.png" class="light-img" width="1280" height="640" alt="Jetbar"/>
+<img src="/jetbar-screenshot.png" width="1280" height="640" alt="Jetbar" class="rounded-xl shadow" />
 
-<img src="/banner-dark.png" class="dark-img" width="1280" height="640" alt="Jetbar"/>
-
-Collection of Blade & VueJS components to accelerate even more your development with Laravel Jetstream.
+Blade & VueJS components to add a sidebar shell to your app with Laravel Jetstream.
 
 <reference text="This package & more content is part of 30daysofjetstream.com"></reference>
 

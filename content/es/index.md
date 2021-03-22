@@ -13,11 +13,9 @@ features:
   - Componente Table Pagination
 ---
 
-<img src="/banner.png" class="light-img" width="1280" height="640" alt="Jetbar"/>
+<img src="/jetbar-screenshot.png" width="1280" height="640" alt="Jetbar" class="rounded-xl shadow" />
 
-<img src="/banner-dark.png" class="dark-img" width="1280" height="640" alt="Jetbar"/>
-
-Colección de componentes Blade & VueJS para acelerar el desarrollo con Laravel Jetstream aún mas.
+Componentes Blade y VueJS para agregar un shell de barra lateral a su aplicación con Laravel Jetstream.
 
 <reference text="Este paquete y mas contenido es parte del curso 30daysofjetstream.com"></reference>
 

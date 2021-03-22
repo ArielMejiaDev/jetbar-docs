@@ -25,6 +25,9 @@ El componente Navigation menu agrega un dropdown para notificaciones del usuario
 
 </alert>
 
+
+<img src="/jetbar-navigation-screenshot.png" width="1280" height="640" alt="Jetbar navigation menu" class="rounded-xl shadow" />
+
 ## Plantilla con InertiaJS
 
 La plantilla se encuentra en: `resources/js/Layouts`.

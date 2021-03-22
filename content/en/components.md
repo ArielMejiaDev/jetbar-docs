@@ -7,6 +7,9 @@ category: 'Components'
 
 ### Alert Component
 
+
+<jet-bar-alert text="This is an alert"></jet-bar-alert>
+
 <code-group>
   <code-block label="For Livewire stack" active>
 
@@ -32,7 +35,9 @@ category: 'Components'
   </code-block>
 </code-group>
 
-### Stats Component
+### Stat Cards Component
+
+<stats></stats>
 
 <code-group>
   <code-block label="For Livewire stack" active>
@@ -48,9 +53,9 @@ category: 'Components'
 
   ```vue
 <jet-bar-stat-card title="Total clients" number="6389" type="warning">
-    <template v-slot:icon>
-        <jet-bar-icon type="users" fill />
-    </template>
+  <template v-slot:icon>
+      <jet-bar-icon type="users" fill />
+  </template>
 </jet-bar-stat-card>
   ```
 
@@ -58,6 +63,8 @@ category: 'Components'
 </code-group>
 
 ### Badge Component
+
+<jet-bar-badge text="active" type="success"></jet-bar-badge>
 
 <code-group>
   <code-block label="For Livewire stack" active>
@@ -78,6 +85,12 @@ category: 'Components'
 
 ### Icon Component
 
+<div class="p-1 rounded shadow my-2 inline-block">
+
+<jet-bar-icon type="trash" fill></jet-bar-icon>
+
+</div>
+
 <code-group>
   <code-block label="For Livewire stack" active>
 
@@ -96,6 +109,8 @@ category: 'Components'
 </code-group>
 
 ### Table Component
+
+<simple-table></simple-table>
 
 <code-group>
   <code-block label="For Livewire stack" active>
@@ -143,6 +158,12 @@ category: 'Components'
 </code-group>
 
 ### Simple Pagination Component
+
+<alert type="info">
+
+ Only for InertiaJS (Livewire can use Laravel default pagination).
+
+</alert>
 
 Here an example with an eloquent collection of users (User model).
 
